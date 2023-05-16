@@ -1,2 +1,2 @@
 # mlinjection
-A machine learning library similar to libinjection for OWASP top 10 attacks.  
+A machine learning library similar to libinjection for classifying OWASP top 10 attacks.  
